@@ -30,12 +30,8 @@ homebrew_installed_packages:
   - httpie
   - iperf
   - libevent
-  - sqlite
   - mcrypt
   - nmap
-  - node
-  - nvm
-  - php
   - ssh-copy-id
   - cowsay
   - readline
@@ -50,17 +46,13 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - chromedriver
   - docker
-  - dropbox
   - firefox
   - google-chrome
-  - handbrake
   - licecap
   - limechat
   - macvim
   - sequel-pro
-  - skitch
   - slack
   - sublime-text
   - transmit
